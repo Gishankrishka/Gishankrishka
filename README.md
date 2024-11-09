@@ -68,6 +68,7 @@
 - <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/gishankrishka2?label=Followers&style=social"> 
 ---
 
+<a href="https://www.buymeacoffee.com/Gishankrishka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
                                                    Joined GitHub
