@@ -45,7 +45,7 @@ Here are some of my notable projects:
 
 ---
 
-##  Let's Collaborate
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Let's Collaborate <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="25" height="25" />
 
 I'm always open to collaborating on exciting projects. Feel free to reach out to me for:
 
