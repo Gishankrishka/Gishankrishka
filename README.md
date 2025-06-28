@@ -24,6 +24,8 @@
 Here are some of my notable projects:
 
 > [@Quotee_Robot](https://t.me/Quotee_robot?profile)
+> [@StarToGiftbot](https://t.me/StarToGiftBot?profile)
+> [@RestrictedDownloader_Bot](https://t.me/RestrictedDownloader_bot?profile)
 > [More..](https://t.me/Cyberline_official)
 
 ---
