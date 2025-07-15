@@ -1,8 +1,10 @@
-# Hi, I'm Gishan Krishka! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
+# Gishan Krishka! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="45" height="45" />
 
 - <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=brightgreen"> 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> I'm a Noob **Developer** and **Student** from Sri Lanka.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Python Developer | Database manager | Designer | Mobile photograper
+
+Crafting robust Python applications, beautiful user interfaces, and scalable database solutions. Specializing in python backend and telegram bot development with expertise in backend systems, UI design, and database management since 2021.
 
 ---
 
