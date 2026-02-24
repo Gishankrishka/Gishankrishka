@@ -2,8 +2,14 @@
 
 - <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=brightgreen"> 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25" /> Developer | Designer 
-Crafting robust Python applications, beautiful user interfaces, and scalable database solutions. Specializing in python backend and telegram bot development with expertise in backend systems, UI design, and database management since 2021.
+Hi, I’m **Gishan Krishka Vithana** (you can call me Krish).
+I’m a **Python developer** and tech enthusiast with skills in **backend development, APIs, automation, and networking**. I enjoy **building backend systems, writing automation scripts, exploring cybersecurity labs**, and solving complex technical problems while learning new technologies.  
+
+I’m also the **founder of [Cyberline](https://Cyberline.lk)**, where I work mostly solo but also lead a small team. We create and share **Telegram bots, tools, and APIs**
+
+I work with **Python, FastAPI, Flask, Django, MySQL, MongoDB, Firebase, Redis, Linux, Windows, Git, and Postman**, and I’m always learning more about **cybersecurity, AI, cloud, ethical hacking, backend, and networking**.  
+
+I’m a **fast learner, problem solver, and experimental thinker**. I value **quality, performance, scalability, innovation, and continuous learning**. Right now, I’m focused on **building more cybersecurity projects, launching products, and learning new things**, with the long-term goal of becoming a **full-stack cybersecurity expert**.
 
 ---
 
