@@ -2,7 +2,7 @@
 
 - <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=brightgreen"> 
 
-Hi, I’m **Gishan Krishka Vithana** (you can call me Krish).
+Hi, I’m **Gishan Krishka Vithana** .
 I’m a **Python developer** and tech enthusiast with skills in **backend development, APIs, automation, and networking**. I enjoy **building backend systems, writing automation scripts, exploring cybersecurity labs**, and solving complex technical problems while learning new technologies.  
 
 I’m also the **founder of [Cyberline](https://Cyberline.lk)**, where I work mostly solo but also lead a small team. We create and share **Telegram bots, tools, and APIs**
