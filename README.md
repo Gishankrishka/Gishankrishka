@@ -1,5 +1,10 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4b00b5&width=435&lines=Code.+Break.+Build.+Repeat.)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="45" />
 <p><img alt="profile views" src="https://komarev.com/ghpvc/?username=Gishankrishka2&style=flat&color=blue">
+
+</div>
 </p>
 
 Hi, I’m **Gishan Krishka**.  
